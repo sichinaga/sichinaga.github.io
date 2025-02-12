@@ -1,6 +1,4 @@
 ---
-title: "Sara Ichinaga"
-description: "Hello! Thanks for stopping by. :)"
 layout: default
 ---
 
