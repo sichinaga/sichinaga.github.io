@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Sara Ichinaga
 description: Bookmark this to keep an eye on my project updates!
+baseurl: ""
