@@ -1,6 +1,4 @@
 ---
-title: "Research"
-description: "Hello! Thanks for stopping by. :)"
 layout: default
 permalink: /research/
 ---
