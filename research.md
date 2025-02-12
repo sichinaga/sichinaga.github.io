@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /research/
+title: Sara Ichinaga
 ---
 
 ## Publications
