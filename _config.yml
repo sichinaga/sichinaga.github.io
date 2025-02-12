@@ -2,15 +2,11 @@ theme: jekyll-theme-cayman
 
 title: Sara Ichinaga
 author: Sara Ichinaga
+description: Hello! Thanks for stopping by. :)
 
-# baseurl: "/"
-# url: "https://sichinaga.github.io"
+url: "https://sichinaga.github.io"
 
-# navbar-links:
-#   Research: "https://sichinaga.github.io/research/"
-
-# avatar: "/assets/img/avatar-icon.png"
-# round-avatar: true
+title-on-all-pages: true
 
 social-network-links:
   email: sarami7@uw.edu
