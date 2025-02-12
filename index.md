@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sara Ichinaga
 ---
 
 # Welcome to my page!
