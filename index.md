@@ -1,8 +1,6 @@
----
 title: Sara Ichinaga
-layout: default
----
+description: Hello! Thanks for stopping by. :)
 
-# Welcome!
+# Welcome to my page!
 
 Hi! I'm Sara. :)
