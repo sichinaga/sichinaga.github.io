@@ -1,10 +1,10 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 title: Sara Ichinaga
 author: Sara Ichinaga
 
-url: "https://sichinaga.github.io"
 baseurl: "/"
+url: "https://sichinaga.github.io"
 
 navbar-links:
   Research: "https://sichinaga.github.io/research/"
