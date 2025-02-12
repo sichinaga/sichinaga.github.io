@@ -1,7 +1,7 @@
 ---
 title: "Research"
 description: "Hello! Thanks for stopping by. :)"
-layout: page
+layout: default
 permalink: /research/
 ---
 
