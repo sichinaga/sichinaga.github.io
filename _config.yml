@@ -1,13 +1,13 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 title: Sara Ichinaga
 author: Sara Ichinaga
 
-baseurl: "/"
-url: "https://sichinaga.github.io"
+# baseurl: "/"
+# url: "https://sichinaga.github.io"
 
-navbar-links:
-  Research: "https://sichinaga.github.io/research/"
+# navbar-links:
+#   Research: "https://sichinaga.github.io/research/"
 
 # avatar: "/assets/img/avatar-icon.png"
 # round-avatar: true
