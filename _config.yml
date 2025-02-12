@@ -6,6 +6,11 @@ description: Hello! Thanks for stopping by. :)
 
 url: "https://sichinaga.github.io"
 
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+
 social-network-links:
   email: sarami7@uw.edu
   github: sichinaga
