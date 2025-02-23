@@ -5,7 +5,7 @@ title: Sara Ichinaga
 
 # Welcome to my page!
 
-<img src="https://sichinaga.github.io/files/me-2.jpg" alt="sara" width="200" border-radius="10"/>
+<img align="left" src="https://sichinaga.github.io/files/me-2.jpg" alt="Sara Ichinaga" width="200" id="image"/>
 
 Hello! My name is Sara Ichinaga and I am an Applied Mathematics Ph.D. candidate at the University of Washington studying under Professors [J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Steven L. Brunton](https://www.eigensteve.com/). My research generally deals with data-driven modeling and machine learning methods. In particular, I am interested in developing and improving methods that can be used to model complex system dynamics solely from real-world, time-varying snapshot data.
 

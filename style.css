@@ -4,3 +4,9 @@
     border-radius: 100px;
     margin-bottom: 30px;
 }
+
+#image {
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
