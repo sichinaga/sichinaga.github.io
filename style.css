@@ -5,8 +5,14 @@
     margin-bottom: 30px;
 }
 
-#image {
+.left-image {
+    width: 200px;
     border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-right: 20px;
+}
+
+.right-image {
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 20px;
 }
