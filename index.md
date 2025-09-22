@@ -3,9 +3,9 @@ layout: default
 title: Sara Ichinaga
 ---
 
-<p align="center">
+<center>
   <h1>Welcome!</h1>
-</p>
+</center>
 
 <img align="left" src="https://sichinaga.github.io/files/me-3.jpg" alt="Sara Ichinaga" class="left-image"/>
 
