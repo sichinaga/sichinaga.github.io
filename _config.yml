@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 title: Sara Ichinaga
 author: Sara Ichinaga
-description: Hello! Thanks for stopping by. :)
+description: Hello! Thanks for stopping by :)
 
 url: "https://sichinaga.github.io"
 
@@ -10,6 +10,7 @@ header_pages:
   - index.md
   - research.md
   - teaching.md
+  - code.md
 
 social-network-links:
   email: sarami7@uw.edu

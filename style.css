@@ -18,13 +18,13 @@
 }
 
 .small-left-image {
-    width: 400px;
+    width: 150px;
     border-radius: 10px;
     margin-right: 20px;
 }
 
 .small-right-image {
-    width: 400px;
+    width: 150px;
     border-radius: 10px;
     margin-left: 20px;
 }
