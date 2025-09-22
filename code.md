@@ -6,9 +6,7 @@ title: Sara Ichinaga
 
 # Code
 
-I am a Python expert with extensive experience as a Python package developer, maintainer, and educator.
-
-See my [GitHub](https://github.com/sichinaga/) (username sichinaga) for an exhaustive list of my coding projects.
+I am a <span style="color: #007bff;">Python expert</span> with extensive experience as a Python package developer, maintainer, and educator. See my [GitHub](https://github.com/sichinaga/) for a list of all of my projects.
 
 Here are some cool Python projects that I've been working on recently:
 
