@@ -5,6 +5,13 @@
     margin-bottom: 30px;
 }
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #0b97e3;
+}
+
 .left-image {
     width: 200px;
     border-radius: 10px;

@@ -4,14 +4,22 @@ title: Sara Ichinaga
 ---
 
 <center>
-  <h1>Welcome!</h1>
+  <h1>Welcome! Thanks for stopping by :)</h1>
 </center>
 
 <img align="left" src="https://sichinaga.github.io/files/me-3.jpg" alt="Sara Ichinaga" class="left-image"/>
 
-Hello! My name is Sara Ichinaga and I am an Applied Mathematics Ph.D. candidate at the University of Washington studying under [Dr. J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Dr. Steven L. Brunton](https://www.eigensteve.com/). I study, implement, utilize, and extend data-driven methods that can be used to model time-varying data sets (i.e. time-series data, video data, etc.) for tasks like dimensionality reduction, future state prediction, system control, and learning governing equations from data.
+Hello! My name is Sara Ichinaga and I am a 5th year Applied Mathematics Ph.D. candidate at the University of Washington working under the supervision of [Dr. J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Dr. Steven L. Brunton](https://www.eigensteve.com/). I study, implement, and extend data-driven methods that can be used to mathematically model time-varying data sets (i.e. time-series data, video data, etc.) from various engineering and scientific fields. Our methods allow for tasks such as dimension reduction, future-state prediction, and system control.
 
-# Highlights
+I am currently looking for a postdoctoral position 
+
+# Me At a Glance
+- Ph.D. in 
+- M.S. in 
+- B.S. in 
+- 
+
+# News and Highlights
 Here are some things that I've been working on recently!
 
 ## PyDMD: a Python package for Dynamic Mode Decomposition
