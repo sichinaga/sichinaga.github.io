@@ -6,9 +6,9 @@ title: Sara Ichinaga
 
 # Code
 
-I am a <span style="color: #007bff;">Python expert</span> with extensive experience as a Python package developer, maintainer, and educator. See my [GitHub](https://github.com/sichinaga/) for a list of all of my projects.
+I am a Python expert with extensive experience as a Python package developer, maintainer, and educator. See my [GitHub](https://github.com/sichinaga/) for a list of all of my projects.
 
-Here are some cool Python projects that I've been working on recently:
+Here are some cool projects that I've been working on recently:
 
 ## PyDMD: A Python Package for Dynamic Mode Decomposition
 
