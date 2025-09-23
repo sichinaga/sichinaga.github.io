@@ -11,21 +11,21 @@ title: Sara Ichinaga
 
 Hello! My name is Sara Ichinaga and I am a 5th year Applied Mathematics Ph.D. candidate at the University of Washington working under the supervision of [Dr. J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Dr. Steven L. Brunton](https://www.eigensteve.com/).
 
-I study, implement, and extend data-driven methods that can be used to mathematically model data sets (typically time-varying data sets, such as time-series data, video data, etc.) from various scientific and engineering fields. Our methods allow for tasks such as dimension reduction, future-state prediction, and system control, and our implementations require a variety of optimization techniques and intricate Python scripts. Hence another cornerstone of my work is the creation and development of intuitive, user-friendly, easy-to-access methods and tools that can be deployed by scientists and engineers, regardless of their background in mathematics.
+I study, implement, and extend data-driven methods that can be used to mathematically model data sets (typically time-varying data sets, such as time-series data, video data, etc.) from various scientific and engineering fields. Our methods allow for tasks such as dimension reduction, future-state prediction, and system control, and our implementations require a variety of optimization techniques and intricate Python scripts. Hence another cornerstone of my work is the creation and development of intuitive, user-friendly, easy-to-access methods and tools that can be deployed by scientists and engineers everywhere, regardless of their background in mathematics.
 
 **I am currently looking for a postdoctoral position in data-driven mathematical science.**
 
 # Me At a Glance
-<header class="page-header" role="banner">
-  <div>
-    <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn">CV</a>
-    <a href="https://sichinaga.github.io/files/RESUME-Sara-Ichinaga.pdf" class="btn">Resume</a>
-    <a href="https://github.com/sichinaga/" class="btn">GitHub</a>
-  </div>
-</header>
+<div>
+  <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn">CV</a>
+  <a href="https://sichinaga.github.io/files/RESUME-Sara-Ichinaga.pdf" class="btn">Resume</a>
+  <a href="https://github.com/sichinaga/" class="btn">GitHub</a>
+</div>
+
 <center>
   Email: [sarami7@uw.edu](mailto:sarami7@uw.edu)
 </center>
+
 - Ph.D. in Applied Mathematics, University of Washington, expected 2026
 - M.S. in Applied Mathematics, University of Washington, 2022
 - B.S. in Applied and Computational Mathematical Sciences, University of Washington, 2021
