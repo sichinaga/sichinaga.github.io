@@ -4,9 +4,11 @@ permalink: /teaching/
 title: Sara Ichinaga
 ---
 
-# Teaching
+<center>
+  <h1>Teaching</h1>
+</center>
 
-## Graduate Certificate in AI and ML for Engineering Program
+## Certificate in Artificial Intelligence and Machine Learning for Engineering
 I am currently a teaching assistant for the UW College of Engineering [Graduate Certificate in Artificial Intelligence and Machine Learning for Engineering Program](https://www.engr.washington.edu/admission/professional-masters-certificates/artificial-intelligence-and-machine-learning-certificate).
 
 - **ENGR 515: Data-Driven Optimization** (Teaching Assistant, Winter 2025)

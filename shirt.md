@@ -4,4 +4,6 @@ permalink: /shirt/
 title: Sara Ichinaga
 ---
 
-# Math Designs for Everyone
+<center>
+  <h1>Math Designs for Everyone</h1>
+</center>
