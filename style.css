@@ -12,6 +12,18 @@
     color: #0b97e3;
 }
 
+.btn-light {
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: #0b97e3;
+    background-color: #0b97e31e;
+    border-color: #0b97e3;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
 .left-image {
     width: 200px;
     border-radius: 10px;
