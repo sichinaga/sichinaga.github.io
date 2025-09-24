@@ -15,10 +15,12 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 
 **I am currently looking for a postdoctoral position in data-driven mathematical science.**
 
-# Me At a Glance
+# Me at a Glance
+<center>
 <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn-light">CV</a>
 <a href="https://sichinaga.github.io/files/RESUME-Sara-Ichinaga.pdf" class="btn-light">Resume</a>
 <a href="https://github.com/sichinaga/" class="btn-light">GitHub</a>
+</center>
 
 <center>
   Email: [sarami7@uw.edu](mailto:sarami7@uw.edu)
