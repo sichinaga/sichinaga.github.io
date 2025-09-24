@@ -16,24 +16,26 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 **I am currently looking for a postdoctoral position in data-driven mathematical science.**
 
 # Me at a Glance
+- Ph.D. in Applied Mathematics, University of Washington, expected 2026
+- M.S. in Applied Mathematics, University of Washington, 2022
+- B.S. in Applied and Computational Mathematical Sciences, University of Washington, 2021
+
+- Email: [sarami7@uw.edu](mailto:sarami7@uw.edu)
+
 <center>
 <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn-light">CV</a>
 <a href="https://sichinaga.github.io/files/RESUME-Sara-Ichinaga.pdf" class="btn-light">Resume</a>
 <a href="https://github.com/sichinaga/" class="btn-light">GitHub</a>
 </center>
 
-<center>
-  Email: [sarami7@uw.edu](mailto:sarami7@uw.edu)
-</center>
-
-- Ph.D. in Applied Mathematics, University of Washington, expected 2026
-- M.S. in Applied Mathematics, University of Washington, 2022
-- B.S. in Applied and Computational Mathematical Sciences, University of Washington, 2021
-
 # News and Highlights
 Here are some things that I've been working on recently!
 
-## PyDMD: a Python package for Dynamic Mode Decomposition
+## PyRidge: A Dimension Reduction Python Package for NREL
+
+<img align="left" src="https://sichinaga.github.io/files/nrel.svg" alt="nrel" class="small-left-image"/>
+
+## PyDMD: A Python Package for Dynamic Mode Decomposition
 
 <img align="right" src="https://sichinaga.github.io/files/logo_PyDMD.png" alt="pydmd" class="small-right-image"/>
 
