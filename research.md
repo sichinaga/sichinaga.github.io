@@ -4,7 +4,9 @@ permalink: /research/
 title: Sara Ichinaga
 ---
 
-# Research
+<center>
+  <h1>Research</h1>
+</center>
 
 ## Publications
 - <ins>Sara M. Ichinaga</ins>, Francesco Andreuzzi, Nicola Demo, Marco Tezzele, Karl Lapo, Gianluigi Rozza, Steven L. Brunton, and J. Nathan Kutz. “PyDMD: A Python package for robust dynamic mode decomposition.” **_JMLR._** 2024. **25**(417):1-9. Available: [http://jmlr.org/papers/v25/24-0739.html](http://jmlr.org/papers/v25/24-0739.html).

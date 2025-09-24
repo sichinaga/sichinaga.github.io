@@ -19,7 +19,6 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 - Ph.D. in Applied Mathematics, University of Washington, expected 2026
 - M.S. in Applied Mathematics, University of Washington, 2022
 - B.S. in Applied and Computational Mathematical Sciences, University of Washington, 2021
-
 - Email: [sarami7@uw.edu](mailto:sarami7@uw.edu)
 
 <center>
@@ -32,8 +31,14 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 Here are some things that I've been working on recently!
 
 ## PyRidge: A Dimension Reduction Python Package for NREL
+**September 2025**
 
 <img align="left" src="https://sichinaga.github.io/files/nrel.svg" alt="nrel" class="small-left-image"/>
+
+I just finished a graduate summer internship at the National Renewable Energy Lab (NREL) Computational Science Center. During my time at NREL, I implemented [PyRidge](https://github.com/NREL/PyRidge), a Python package for dimension reduction and ridge function approximation.
+
+## Sparse-mode DMD
+**July 2025**
 
 ## PyDMD: A Python Package for Dynamic Mode Decomposition
 
