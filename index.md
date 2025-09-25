@@ -34,7 +34,7 @@ Here are some things that I've been working on recently!
 
 ## PyRidge: A Dimension Reduction Python Package for NREL
 
-<img align="left" src="https://sichinaga.github.io/files/nrel.svg" alt="nrel" class="small-left-image"/>
+<img align="left" src="https://sichinaga.github.io/files/nrel.svg" alt="nrel" class="left-image"/>
 
 I just finished a graduate summer internship at the National Renewable Energy Lab (NREL) in the Computational Science Center. During my time at NREL, I implemented [PyRidge](https://github.com/NREL/PyRidge), a Python package for dimension reduction and ridge function approximation.
 
@@ -42,7 +42,7 @@ _September 2025_
 
 ## Certificate in Artificial Intelligence and Machine Learning for Engineering
 
-<img align="right" src="https://sichinaga.github.io/files/aiml.png" alt="pydmd" class="small-right-image"/>
+<img align="right" src="https://sichinaga.github.io/files/aiml.png" alt="pydmd" class="right-image"/>
 
 I am currently serving as a teaching assistant for ENGR 510 (Foundations of Machine Learning for Engineering), which is a part of a new [graduate certificate program](https://www.engr.washington.edu/admission/professional-masters-certificates/artificial-intelligence-and-machine-learning-certificate) offered by the UW College of Engineering meant to equip engineers with the math and coding skills necessary to understand modern advancements in machine learning. I served as the very first TA for this course, as well as for ENGR 515 (Data-Driven Optimization) during the 2024-2025 academic year, and I am proud to be TAing once again.
 
