@@ -22,6 +22,8 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 - **Email:** [sarami7@uw.edu](mailto:sarami7@uw.edu)
 - **Location:** Seattle, WA
 
+<object data="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 <center>
 <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn-light">CV</a>
 <a href="https://sichinaga.github.io/files/RESUME-Sara-Ichinaga.pdf" class="btn-light">Resume</a>
