@@ -26,16 +26,16 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 <a href="https://scholar.google.com/citations?user=3OPvyaAAAAAJ&hl=en&oi=ao" class="btn-light">Google Scholar</a>
 </center>
 
-<center>
-Updated December 2025.
-</center>
-
 <iframe
   src="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf"
   width="100%"
   height="600px"
   style="border: none;">
 </iframe>
+
+<center>
+Updated December 2025.
+</center>
 
 # News and Highlights
 Here are some things that I've been working on recently!
