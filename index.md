@@ -17,7 +17,7 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 
 **Email:** [sarami7@uw.edu](mailto:sarami7@uw.edu)
 
-# Me at a Glance
+# Me at a glance
 
 <center>
 <a href="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf" class="btn-light">CV</a>
@@ -29,8 +29,7 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 <iframe
   src="https://sichinaga.github.io/files/CV-Sara-Ichinaga.pdf"
   width="100%"
-  height="600px"
-  style="border: none;">
+  height="1000px">
 </iframe>
 
 <center>
