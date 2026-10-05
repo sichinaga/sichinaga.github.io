@@ -14,4 +14,7 @@ Here are some cool projects that I've been working on recently:
 
 ## PyDMD: A Python Package for Dynamic Mode Decomposition
 
+
+
 ## PyRidge: A Python Package for Dimension Reduction and Ridge Function Approximation
+

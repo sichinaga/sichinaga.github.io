@@ -9,7 +9,7 @@ title: Sara Ichinaga
 
 <img align="left" src="https://sichinaga.github.io/files/images/me-3.jpg" alt="Sara Ichinaga" class="left-image"/>
 
-Hello! My name is Sara Ichinaga and I am a 5th year Applied Mathematics Ph.D. candidate at the University of Washington working under the supervision of [Dr. J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Dr. Steven L. Brunton](https://www.eigensteve.com/).
+My name is Sara Ichinaga and I am a 6th year Applied Mathematics Ph.D. candidate at the University of Washington working under the supervision of [Prof. J. Nathan Kutz](https://faculty.washington.edu/kutz/) and [Prof. Steven L. Brunton](https://www.eigensteve.com/).
 
 I study, implement, and extend data-driven methods that can be used to mathematically model data sets (typically time-varying data sets, such as time-series data, video data, etc.) from various scientific and engineering fields. Our methods allow for tasks such as dimension reduction, future-state prediction, and system control, and our implementations require a variety of optimization techniques and intricate Python scripts. Hence another cornerstone of my work is the creation and development of intuitive, user-friendly, easy-to-access methods and tools that can be deployed by scientists and engineers everywhere, regardless of their background in mathematics.
 
@@ -33,17 +33,25 @@ I study, implement, and extend data-driven methods that can be used to mathemati
 </iframe>
 
 <center>
-Updated December 2025.
+Updated September 2026.
 </center>
 
 # News and Highlights
 Here are some things that I've been working on recently!
 
-## PyRidge: A Dimension Reduction Python Package for NREL
+## PyRidge: A Dimension Reduction Python Package for NLR
 
-<img align="left" src="https://sichinaga.github.io/files/images/nrel.svg" alt="nrel" class="left-image"/>
+<img align="right" src="https://sichinaga.github.io/files/images/roblox.png" alt="roblox" class="right-image"/>
 
-I just finished a graduate summer internship at the National Renewable Energy Lab (NREL) in the Computational Science Center. During my time at NREL, I implemented [PyRidge](https://github.com/NREL/PyRidge), a Python package for dimension reduction and ridge function approximation.
+I just finished a summer internship at the Roblox headquarters in San Mateo, CA, where I joined the Distributed Physics pod as a Ph.D. applied scientist! (What an awesome summer!)
+
+_September 2026_
+
+## PyRidge: A Dimension Reduction Python Package for NLR
+
+<img align="left" src="https://sichinaga.github.io/files/images/NLR-new-logo.jpg" alt="nlr" class="left-image"/>
+
+I just finished a graduate summer internship at the National Laboratory of the Rockies (NLR) in the Computational Science Center. During my time at NLR, I implemented [PyRidge](https://github.com/NatLabRockies/PyRidge), a Python package for dimension reduction and ridge function approximation.
 
 _September 2025_
 
