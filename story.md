@@ -12,12 +12,21 @@ title: Sara Ichinaga
 
 When I'm not doing math, I'm either gaming, dancing, bugging my cats, or hanging out with my awesome buddies. I have a wonderful life partner and two amazing lil' black cats. Life is pretty good, I gotta say. :)
 
-<!-- **Sara's Recommended Seattle Food Spots**
+<!-- **Sara's Favorite "Seattle" Food Spots**
 - Spicy Style of Sichuan
 - Cornuto Pizzeria
 - Tanoor
+- Taki's Mad Greek
+- Aroy Mak
+- Maruta Shoten
+- Fort St. George
+- Outsider BBQ
+- Via Rosa 11
+- Sam Oh Jung
+- Vecindad
+- Yi's Traditional Korean Beef Soup
 - Looking for Chai -->
 
 ## My Journey Through Mathematics
 
-Coming soon. :)
+<!-- Coming soon. :) -->

@@ -39,7 +39,7 @@ Updated September 2026.
 # News and Highlights
 Here are some things that I've been working on recently!
 
-## PyRidge: A Dimension Reduction Python Package for NLR
+## Interning at Roblox!
 
 <img align="right" src="https://sichinaga.github.io/files/images/roblox.png" alt="roblox" class="right-image"/>
 
@@ -47,7 +47,7 @@ I just finished a summer internship at the Roblox headquarters in San Mateo, CA,
 
 _September 2026_
 
-## PyRidge: A Dimension Reduction Python Package for NLR
+## Interning at the National Laboratory of the Rockies!
 
 <img align="left" src="https://sichinaga.github.io/files/images/NLR-new-logo.jpg" alt="nlr" class="left-image"/>
 
@@ -55,7 +55,7 @@ I just finished a graduate summer internship at the National Laboratory of the R
 
 _September 2025_
 
-## Certificate in Artificial Intelligence and Machine Learning for Engineering
+## TAing for the UW Certificate in Artificial Intelligence and Machine Learning for Engineering Program!
 
 <img align="right" src="https://sichinaga.github.io/files/images/aiml.png" alt="pydmd" class="right-image"/>
 
